@@ -1,0 +1,10 @@
+name: ngutils
+description: AngularDart utilities, such as changing page title, adding meta tags, etc.
+version: 0.0.1
+homepage: https://github.com/angulardart-community/ngutils
+
+environment:
+  sdk: '>=2.5.0 <3.0.0'
+
+dev_dependencies: 
+  test: ^1.17.11
