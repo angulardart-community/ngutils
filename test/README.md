@@ -1,0 +1,1 @@
+No tests here. All test are in the [example](../example/test) folder.
