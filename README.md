@@ -1,12 +1,11 @@
 # NgUtils
 
-Table of Contents:
+A collection of services and (in the future) components that helps you create beautiful and performant AngularDart websites easily.
+
 - [NgUtils](#ngutils)
 	- [Services](#services)
 		- [`TitleService`](#titleservice)
 		- [`MetaService`](#metaservice)
-
-A collection of services and (in the future) components that helps you create beautiful and performant AngularDart websites easily.
 
 ## Services
 
